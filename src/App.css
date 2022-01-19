@@ -39,6 +39,14 @@
 div {
   text-align: center;
   font-size: 10rem;
-  border-radius: 40rem;
+  border-radius: 10re, black, 40rem;
   width: 100rem;
+  border-radius: 40rem;
+  margin-left: 10rem;
+  margin-top: 2rem;
+}
+
+button {
+  font-size: 2rem;
+  border-radius: 25px;
 }
