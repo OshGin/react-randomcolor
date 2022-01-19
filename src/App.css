@@ -39,4 +39,6 @@
 div {
   text-align: center;
   font-size: 10rem;
+  border-radius: 40rem;
+  width: 100rem;
 }
