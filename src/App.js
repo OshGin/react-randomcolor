@@ -12,7 +12,7 @@ function App() {
         height: 'auto',
       }}
     >
-      Generated Color: {randomColor()}git
+      Generated Color: {randomColor()}
       <div>
         <button onClick={() => setColor(randomColor())}>Generate</button>
       </div>
