@@ -12,11 +12,9 @@ function App() {
         height: 'auto',
       }}
     >
-      Hello {randomColor()}!
+      Generated Color: {randomColor()}!
       <div>
-        <button onClick={() => setColor(randomColor())}>
-          Creat a new background!
-        </button>
+        <button onClick={() => setColor(randomColor())}>Generate</button>
       </div>
     </div>
   );
