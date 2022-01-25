@@ -39,14 +39,14 @@
 div {
   text-align: center;
   font-size: 10rem;
-  border-radius: 10re, black, 40rem;
+  border-radius: 45rem;
   width: 100rem;
-  border-radius: 40rem;
   margin-left: 10rem;
   margin-top: 2rem;
 }
 
 button {
-  font-size: 5rem;
+  font-size: 4.5rem;
   border-radius: 25px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }

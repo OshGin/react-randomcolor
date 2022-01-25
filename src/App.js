@@ -3,7 +3,7 @@ import randomColor from 'randomcolor';
 import { useState } from 'react';
 
 function App() {
-  const [color, setColor] = useState(0);
+  const [, setColor] = useState(null);
   return (
     <div
       style={{
